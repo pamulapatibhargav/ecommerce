@@ -1,4 +1,4 @@
-import Announcement from "../../components/Announcement/Announcement";
+import Announcement from "../../components/announcement/Announcement";
 import Categories from "../../components/categories/Categories";
 import Footer from "../../components/footer/Footer";
 import Navbar from "../../components/navbar/Navbar";
